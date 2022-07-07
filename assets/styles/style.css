@@ -19,6 +19,7 @@ body{
     position: relative;
     transform-style: preserve-3d;
     transition: transform .5s;
+    cursor: pointer;
 }
 
 .card_front, .card_back{
@@ -70,6 +71,7 @@ body{
     border: none;
     border-radius: 10px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 #gameBoard{
